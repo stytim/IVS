@@ -21,5 +21,12 @@ If you require these plugins for your work, please refer to the official sources
 
 ## Cite Us
 
-To be updated
+```
+@article{song2025intelligent,
+  title={Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication},
+  author={Song, Tianyu and Li, Feng and Bi, Yuan and Karlas, Angelos and Yousefi, Amir and Branzan, Daniela and Jiang, Zhongliang and Eck, Ulrich and Navab, Nassir},
+  journal={arXiv preprint arXiv:2507.13052},
+  year={2025}
+}
+```
 
